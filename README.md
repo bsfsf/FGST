@@ -44,15 +44,6 @@ A set of **semantic 3D keypoints** is predefined on the spacecraft model:
 - Includes symmetric structures for ambiguity analysis  
 - Defined in the local coordinate system for cross-sample consistency  
 
-For each frame:
-
-- 2D keypoints are obtained via projection  
-- Visibility is computed using **ray casting**, considering:
-  - Field-of-view constraints  
-  - Self-occlusion  
-
-This guarantees **physically accurate and reliable annotations**.
-
 <p align="center">
   <img src="assets/4.svg" width="45%" style="object-fit: contain;">
   <img src="assets/3.svg" width="45%" style="object-fit: contain;">
