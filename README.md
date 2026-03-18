@@ -31,7 +31,7 @@ Sampling ranges:
 </p>
 
 <p align="center">
-  <em>Spatial layout and visibility of predefined semantic keypoints on the FGST spacecraft, illustrating structurally meaningful and symmetric configurations for pose estimation. (a) Front view; (b) Back view.</em>
+  <em>Spherical spatial distribution of sampled camera poses in the training set.</em>
 </p>
 
 ---
@@ -59,7 +59,7 @@ This guarantees **physically accurate and reliable annotations**.
 </p>
 
 <p align="center">
-  <em>Spatial layout and visibility of predefined semantic keypoints on the FGST spacecraft. (a) Front view; (b) Back view.</em>
+  <em>Spatial layout and visibility of predefined keypoints on the FGST spacecraft. Left：Front view; Right：Back view.</em>
 </p>
 
 ---
