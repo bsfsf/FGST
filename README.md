@@ -66,12 +66,12 @@ This setup ensures:
 - Proper target scale in images
 
 <p align="center">
-  <img src="assets/camera_position_3d_distribution.svg" width="45%">
-  <img src="assets/camera_position_3d_point_cloud(1).svg" width="45%">
+  <img src="assets/4.svg" width="45%">
+  <img src="assets/3.svg" width="45%">
 </p>
 
 <p align="center">
-  <em>Spherical spatial distribution of camera poses in the training set.</em>
+  <em>Spatial layout and visibility of predefined semantic keypoints on the FGST spacecraft, illustrating structurally meaningful and symmetric configurations for pose estimation. (a) Front view; (b) Back view.</em>
 </p>
 
 ---
