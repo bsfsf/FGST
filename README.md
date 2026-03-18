@@ -93,6 +93,15 @@ For each frame:
 
 This guarantees **physically accurate and reliable annotations**.
 
+<p align="center">
+  <img src="assets/4.svg" width="45%">
+  <img src="assets/3.svg" width="45%">
+</p>
+
+<p align="center">
+  <em>Spatial layout and visibility of predefined keypoints on the FGST spacecraft. (a) Front view; (b) Back view.</em>
+</p>
+
 ---
 
 ### 📊 Dataset Statistics
