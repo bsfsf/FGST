@@ -1,4 +1,4 @@
-# Visibility-guided Keypoint Inference for Disambiguating Non-cooperative Spacecraft Pose Estimation
+# KeyVisNet: A Disambiguative Monocular Pose Estimation Network Based on Keypoint Visibility Perception for Non-cooperative Spacecraft
 ## 📦 FGST Dataset
 
 ### 📖 Overview
