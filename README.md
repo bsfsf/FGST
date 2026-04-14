@@ -1,9 +1,9 @@
 # KeyVisNet: A Disambiguative Monocular Pose Estimation Network Based on Keypoint Visibility Perception for Non-cooperative Spacecraft
-## 📦 FGST Dataset
+## 📦 Symmetric Ambiguity Spacecraft Dataset (SASD)
 
 ### 📖 Overview
 
-**FGST (Fermi Gamma-ray Space Telescope Dataset)** is a synthetic dataset designed for **monocular pose estimation of non-cooperative spacecraft**. It is built based on the publicly available 3D model of the *Fermi Gamma-ray Space Telescope (FGST)* from NASA.
+**Symmetric Ambiguity Spacecraft Dataset (SASD)** is a synthetic dataset designed for **monocular pose estimation of non-cooperative spacecraft**. It is built based on the publicly available 3D model of the *Symmetric Ambiguity Spacecraft Dataset (SASD)* from NASA.
 
 Compared with existing datasets such as **SPEED**, FGST provides **richer and more comprehensive supervision**, including:
 
@@ -12,7 +12,7 @@ Compared with existing datasets such as **SPEED**, FGST provides **richer and mo
 - Depth information  
 - Geometrically consistent annotations  
 
-This makes FGST particularly suitable for **keypoint-based pose estimation**, **learnable PnP frameworks**, and **multi-task learning**.
+This makes SASD particularly suitable for **keypoint-based pose estimation**, **learnable PnP frameworks**, and **multi-task learning**.
 
 ---
 
