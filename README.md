@@ -3,7 +3,6 @@ KeyVisNet: A Disambiguative Monocular Pose Estimation Network Based on Keypoint 
 Download the Symmetric Ambiguity Spacecraft Dataset (SASD) from: https://zenodo.org/uploads/19638818
 Note: If the link fails to access, please check the network connection or try again later (current link shows "web page parsing failed", which may be a temporary access issue).
 
-📦 Symmetric Ambiguity Spacecraft Dataset (SASD)
 📖 Overview
 Symmetric Ambiguity Spacecraft Dataset (SASD) is a synthetic dataset designed for monocular pose estimation of non-cooperative spacecraft. It is built based on the publicly available 3D model of the Symmetric Ambiguity Spacecraft Dataset (SASD) from NASA.
 Compared with existing datasets such as SPEED, SASD provides richer and more comprehensive supervision, including:
